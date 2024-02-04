@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
+    "@vercel/analytics": "^1.1.2",
     "preact": "^10.19.3",
     "react-simple-typewriter": "^5.0.1",
     "react-toastify": "^9.1.3",
