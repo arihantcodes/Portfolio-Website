@@ -7,10 +7,10 @@ const SkillSection = () => {
 
       {/* Frontend Technologies */}
       <SkillCategory title="Frontend Technologies">
-        <Skill name="Languages" details="HTML, CSS, JavaScript (ES6+)" />
-        <Skill name="Frameworks" details="React.js" />
+        <Skill name="Languages" details="HTML, CSS, JavaScript (ES6+),TypeScript" />
+        <Skill name="Frameworks" details="React.js,Next Js" />
         <Skill name="Responsive Design" details="Bootstrap, Tailwind CSS" />
-        <Skill name="State Management" details="Redux" />
+        <Skill name="State Management" details="ReduxToolKit,Zustand" />
       </SkillCategory>
 
       {/* Backend Technologies */}
