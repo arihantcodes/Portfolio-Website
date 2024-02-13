@@ -21,37 +21,30 @@ const Menu = [
       link:"https://ekchaipilade.vercel.app/"
       
     },
-    {
-      id: 3,
-      image: Work3,
-      title: "Velocity-Vista",
-      category: "Clone",
-      link:"https://velocity-vista.vercel.app/"
-      
-    },
+    
     ,
     {
       id: 4,
       image: Work4,
-      title: "WeaveSphere ",
+      title: "WeaveSphere - Threads Clone ",
       category: "Clone",
-      link:"https://weavesphere.vercel.app/"
+      link:"https://weave-sphere.vercel.app/"
       
     },
     ,
     {
       id: 5,
       image: Work5,
-      title: "Portfolio ",
+      title: "My Portfolio ",
       category: "Fullstack",
-      link:"https://arihantjain.vercel.app/"
+      link:"https://arihant.us"
       
     },
     ,
     {
       id: 6,
       image: Work6,
-      title: "COMING SOON... ",
+      title: "Motion - Notion Clone ",
       category: "Clone",
       
     },

@@ -35,7 +35,7 @@ const Blog = () => {
               title="Embedded post"
             ></iframe>
             <div className="blog__meta">
-              <span>Arihant Jain</span>
+           
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Blog = () => {
               title="Embedded post"
             ></iframe>
             <div className="blog__meta">
-              <span>Arihant Jain</span>
+              <span></span>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ const Blog = () => {
               title="Embedded post"
             ></iframe>
             <div className="blog__meta">
-              <span>Arihant Jain</span>
+              <span></span>
             </div>
           </div>
         </div>
