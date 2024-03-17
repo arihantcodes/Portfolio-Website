@@ -21,8 +21,8 @@ const About = () => {
             engaged in continuous professional development to stay at the
             forefront of evolving industry standards.
           </p>
-          <a href="" className="btn">
-            Download CV
+          <a href="https://twitter.com/Arihantdotcom" className="btn">
+            Connect On X
           </a>
         </div>
 
