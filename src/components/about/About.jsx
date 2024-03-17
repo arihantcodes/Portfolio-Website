@@ -15,7 +15,7 @@ const About = () => {
             Hi, I'm Arihant, a Full Stack Developer with one year of experience.
             I specialize in designing and implementing robust web applications,
             proficient in a range of front-end and back-end technologies,
-            including Next Js ,Node.js, Express Js,GraphQL,Docker,Apache Kafka and 
+            including Next Js,Node.js,Express Js,GraphQL,Docker,Apache Kafka and 
             MongoDB. I'm dedicated to delivering high-quality, scalable
             solutions that align seamlessly with client objectives. Actively
             engaged in continuous professional development to stay at the
