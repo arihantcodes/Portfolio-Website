@@ -21,9 +21,9 @@ const Data = [
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
-        year: "Aug 2023 - present",
+        year: "March 2024 - March 2024",
         title: "Fullstack Developer",
-        desc: "SyncTechs Agency",
+        desc: "Oasis ingobyte",
       },
       {
         id: 4,

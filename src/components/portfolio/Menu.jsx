@@ -5,8 +5,16 @@ import Work4 from "../../assets/work-4.svg";
 import Work5 from "../../assets/work-5.svg";
 import Work6 from "../../assets/work-6.svg";
 const Menu = [
-  {
-    id: 1,
+  
+    {
+      id: 6,
+      image: Work3,
+      title: "EzBilling ",
+      category: "Fullstack",
+      link:"https://ezbilling.tech"
+      
+    },
+    {id: 1,
     image: Work6,
     title: "Motion - Notion Clone ",
     category: "Clone",
@@ -47,6 +55,8 @@ const Menu = [
       link:"https://arihant.us"
       
     },
+  
+   
     ,
     
   ];
