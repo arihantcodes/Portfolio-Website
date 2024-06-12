@@ -14,7 +14,7 @@ const About = () => {
             <br />
             I'm Arihant & I'm a web and app developer with a passion for
             creating modern and efficient digital solutions. With expertise in
-            technologies like React Native, Next.js, Tailwind CSS,TypeScript, and Docker, I strive
+            technologies like React Native, Next.js, Tailwind CSS, TypeScript, and Docker, I strive
             to build responsive, user-friendly interfaces that deliver
             exceptional experiences. In my development journey, I leverage AWS
             services for scalable and reliable infrastructure, MongoDB for
@@ -22,12 +22,12 @@ const About = () => {
             state management, ensuring smooth data flow and application
             performance.
           </p>
-          <a href="https://twitter.com/Arihantdotcom" className="btn">
-            Connect On X
+          <a href="/resume.pdf" download="arihantresume.pdf" className="btn" target="_blank" rel="noopener noreferrer">
+            Resume
           </a>
         </div>
         <div className="">
-          <img src={Me} alt="" className="" />
+          <img src={Me} alt="Hero" className="" />
         </div>
       </div>
     </section>
