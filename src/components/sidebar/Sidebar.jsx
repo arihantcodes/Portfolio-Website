@@ -12,14 +12,14 @@ const Sidebar = () => {
   };
 
   useEffect(() => {
-    document.body.className = dark ?  "light-theme" : "dark-theme";
+    document.body.className = dark ?  "dark-theme" : "light-theme";
   }, [dark]);
 
   return (
     <>
       <aside className={toggle ? "aside show-menu" : "aside"}>
         <a href="#home" className="nav__logo">
-          <img src={dark ?  Moon : Sun} alt="" className="moon" onClick={darktheme} />
+          <img src={dark ?  Sun : Moon} alt="" className="moon" onClick={darktheme} />
         </a>
 
         <nav className="nav">
