@@ -19,12 +19,12 @@ const data = [
       "Developing dynamic websites with precision, innovation, and a focus on success.",
   },
   {
-    id: 3,
-    image: Image3,
-    title: "App Development",
-    description:
-      "Crafting innovative mobile applications to captivate and engage your audience.",
-  },
+    "id": 3,
+    "image": Image3,
+    "title": "SEO Optimization",
+    "description": "Implementing strategic SEO techniques to enhance your website's visibility and search engine rankings."
+  }
+  
 ];
 
 const Services = () => {
