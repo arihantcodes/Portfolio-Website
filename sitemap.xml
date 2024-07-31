@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://arihant.us/</loc>
+  </url>
+  <url>
+    <loc>https://arihant.us/#about</loc>
+  </url>
+  
+  <url>
+    <loc>https://arihant.us/#resume</loc>
+  </url>
+  <url>
+    <loc>https://arihant.us/#services</loc>
+  </url>
+  <url>
+    <loc>https://arihant.us/#blog</loc>
+  </url>
+  <url>
+    <loc>https://arihant.us/#contact</loc>
+  </url>
+  <url>
+    <loc>https://blog.arihant.us/</loc>
+  </url>
+  <!-- Add more URLs as necessary -->
+</urlset>
