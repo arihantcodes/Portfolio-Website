@@ -61,28 +61,28 @@ const Contact = () => {
           <h3 className="contact_title">Let's talk about everything!</h3>
           <p className="contact__details">Reply get in 24 hours</p>
           <a
-            href="https://www.linkedin.com/in/arihantdotcom/"
+            href="https://www.linkedin.com/in/arihantcodes/"
             className="home__social-link"
             target="_blank"
           >
             <i className="fa-brands fa-linkedin"></i>
           </a>
           <a
-            href="https://twitter.com/Arihantdotcom"
+            href="https://twitter.com/arihantcodes"
             className="home__social-link"
             target="_blank"
           >
             <i className="fa-brands fa-x-twitter"></i>
           </a>
           <a
-            href="https://github.com/arihantdotcom"
+            href="https://github.com/arihantcodes"
             className="home__social-link"
             target="_blank"
           >
             <i className="fa-brands fa-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/arihantdotcom/"
+            href="https://www.instagram.com/arihantjainn18/"
             className="home__social-link"
             target="_blank"
           >
