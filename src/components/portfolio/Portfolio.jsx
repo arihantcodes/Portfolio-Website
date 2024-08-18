@@ -39,7 +39,7 @@ const Portfolio = () => {
               <a href={link} className="work__button">
                 <i className="icon-link work_button-icon"></i>
               </a>
-              <a href="https://github.com/arihantdotcom" className="work__button2">
+              <a href="https://github.com/arihantcodes" className="work__button2">
               <i class="fa-brands fa-github"></i>   
               </a>
             </div>

@@ -1,32 +1,32 @@
-import Work1 from "../../assets/work-1.svg";
-import Work2 from "../../assets/work-2.svg";
-import Work3 from "../../assets/work-3.svg";
-import Work4 from "../../assets/work-4.svg";
+import Work1 from "../../assets/100x.png";
+import Work2 from "../../assets/buytea.png";
+import Work3 from "../../assets/cloths.png";
+import Work4 from "../../assets/motion.png";
 import Work5 from "../../assets/work-5.svg";
-import Work6 from "../../assets/work-6.svg";
+import Work6 from "../../assets/vc.png";
 const Menu = [
   
     {
       id: 6,
-      image: Work3,
-      title: "EzBilling ",
+      image: Work1,
+      title: "Report 100xDevs ",
       category: "Fullstack",
-      link:"https://ezbilling.tech"
+      link:"https://report-100xdevs.vercel.app/"
       
     },
     {id: 1,
-    image: Work6,
-    title: "Motion - Notion Clone ",
+    image: Work4,
+    title: "Motion - Notes App ",
     category: "Clone",
     link:"https://motion-note.vercel.app"
     
   },
   {
     id: 2,
-    image: Work4,
-    title: "WeaveSphere - Threads Clone ",
-    category: "Clone",
-    link:"https://weave-sphere.vercel.app/"
+    image: Work6,
+    title: "Venture Catalyst" ,
+    category: "Fullstack",
+    link:"https://venture-catalyst.vercel.app/"
     
   },
   {
@@ -39,7 +39,7 @@ const Menu = [
   },
     {
       id: 4,
-      image: Work1,
+      image: Work3,
       title: "Jain Cloths ",
       category: "Fullstack",
       link:"https://jaincloths.vercel.app/"
