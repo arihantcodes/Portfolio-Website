@@ -18,7 +18,7 @@ const Menu = [
     image: Work4,
     title: "Motion - Notes App ",
     category: "Clone",
-    link:"https://motion-note.vercel.app"
+    link:"https://motion.arihant.us/"
     
   },
   {
@@ -32,9 +32,9 @@ const Menu = [
   {
     id: 3,
     image: Work2,
-    title: "Ek Chai Pilade",
+    title: "Buy Me A Tea",
     category: "Fullstack",
-    link:"https://ekchaipilade.vercel.app/"
+    link:"https://buymeatea.arihant.us/"
     
   },
     {
@@ -42,7 +42,7 @@ const Menu = [
       image: Work3,
       title: "Jain Cloths ",
       category: "Fullstack",
-      link:"https://jaincloths.vercel.app/"
+      link:"https://jaincloth.arihant.us/"
       
     },
     
