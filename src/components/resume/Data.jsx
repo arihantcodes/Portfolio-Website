@@ -21,9 +21,9 @@ const Data = [
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
-        year: "Apr 2024 - Jul 2024",
-        title: "Frontend Developer",
-        desc: "BuildSpace",
+        year: "Jan 2025 - present",
+        title: "Software Engineer",
+        desc: "DarDoc",
       },
       {
         id: 4,

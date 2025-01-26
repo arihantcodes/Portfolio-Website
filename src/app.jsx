@@ -26,8 +26,8 @@ export function App() {
               "name": "Arihant Jain",
               "url": "https://arihant.us",
               "sameAs": [
-                "https://www.linkedin.com/in/arihantdotcom/",
-                "https://github.com/arihantdotcom",
+                "https://www.linkedin.com/in/arihantcodes/",
+                "https://github.com/arihantcodes",
                  "https://blog.arihant.us"
               ],
               "jobTitle": "Fullstack Developer",

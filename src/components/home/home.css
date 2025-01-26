@@ -14,6 +14,9 @@
 }
 .home__img {
   margin-bottom: 0.5rem;
+  height: 160px;
+  border-radius: 100%;
+
 }
 .home__name {
   font-size: var(--h1-font-size);
