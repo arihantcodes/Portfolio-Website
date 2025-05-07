@@ -82,7 +82,7 @@ const Contact = () => {
             <i className="fa-brands fa-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/arihantjainn18/"
+            href="https://www.instagram.com/arihantcodes/"
             className="home__social-link"
             target="_blank"
           >

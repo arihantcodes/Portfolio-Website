@@ -13,7 +13,7 @@ const HeaderSocials = () => {
     <a href="https://github.com/arihantcodes" className="home__social-link" target='_blank'>
     <i class="fa-brands fa-github"></i>   
     </a> 
-    <a href="https://www.instagram.com/arihantjainn18/" className="home__social-link" target='_blank'>
+    <a href="https://www.instagram.com/arihantcodes/" className="home__social-link" target='_blank'>
     <i class="fa-brands fa-instagram"></i>   
     </a> 
    </div>

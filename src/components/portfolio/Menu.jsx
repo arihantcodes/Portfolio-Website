@@ -1,16 +1,16 @@
 import Work1 from "../../assets/100x.png";
-import Work2 from "../../assets/buytea.png";
+import Work2 from "../../assets/linmo.png";
 import Work3 from "../../assets/cloths.png";
 import Work4 from "../../assets/motion.png";
 import Work5 from "../../assets/work-5.png";
-import Work6 from "../../assets/vc.png";
+import Work6 from "../../assets/spectrumai.png";
 const Menu = [
   {
     id: 1,
     image: Work5,
     title: "Spectrum UI ",
     category: "Fullstack",
-    link:"https://spectrumui.arihant.us"
+    link:"https://ui.spectrumhq.in"
     
   },
     {
@@ -25,23 +25,23 @@ const Menu = [
     image: Work4,
     title: "Motion - Notes App ",
     category: "Clone",
-    link:"https://motion.arihant.us/"
+    link:"https://motion.arihantcodes.in/"
     
   },
   {
     id: 3,
     image: Work2,
-    title: "Buy Me A Tea",
+    title: "Linmo",
     category: "Fullstack",
-    link:"https://buymeatea.arihant.us/"
+    link:"https://web.linmo.app/"
     
   },
   {
     id: 5,
     image: Work6,
-    title: "Venture Catalyst" ,
+    title: "Spectrum AI" ,
     category: "Fullstack",
-    link:"https://venture-catalyst.vercel.app/"
+    link:"https://ai.spectrumhq.in"
     
   },
 

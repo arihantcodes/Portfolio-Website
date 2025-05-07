@@ -21,18 +21,11 @@ const Data = [
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
-        year: "Jan 2025 - present",
+        year: "Jan 2025 - April 2025",
         title: "Software Engineer",
-        desc: "DarDoc",
+        desc: "Dardoc Health Technologies",
       },
-      {
-        id: 4,
-        category: "experience",
-        icon: "icon-briefcase",
-        year: "Nov 2023 - present",
-        title: "Fullstack Developer",
-        desc: "Upwork-Freelancer",
-      },
+      
    
   ];
 export default Data

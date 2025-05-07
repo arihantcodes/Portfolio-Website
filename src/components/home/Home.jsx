@@ -33,8 +33,9 @@ const Home = () => {
       <HeaderSocials/>
 
 
-      <a href="#contact" className='btn'>
-        Hire Me
+      <a href="https://cal.com/arihantjain/15min?overlayCalendar=true" className='btn'>
+        
+        Book a Call With Me 
       </a>
       <Scrolldown/>
     </div>

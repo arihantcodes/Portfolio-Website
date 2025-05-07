@@ -26,14 +26,8 @@ const Blog = () => {
             </a>
           </div>
           <div className="blog__details">
-            <iframe
-              src="https://www.linkedin.com/embed/feed/update/urn:li:share:7158422215741386753"
-              height="350"
-              width="300"
-              frameborder="0"
-              allowfullscreen=""
-              title="Embedded post"
-            ></iframe>
+          <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7282036278219452416"  height="350"
+              width="300" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
             <div className="blog__meta">
            
             </div>
@@ -46,14 +40,7 @@ const Blog = () => {
             </a>
           </div>
           <div className="blog__details">
-            <iframe
-              src="https://www.linkedin.com/embed/feed/update/urn:li:share:7146741039385427968"
-              height="350"
-              width="300"
-              frameborder="0"
-              allowfullscreen=""
-              title="Embedded post"
-            ></iframe>
+          <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7323710706212569088" height="350" width="300" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
             <div className="blog__meta">
               <span></span>
             </div>
@@ -66,14 +53,7 @@ const Blog = () => {
             </a>
           </div>
           <div className="blog__details">
-            <iframe
-              src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7151196647950036992"
-              height="350"
-              width="300"
-              frameborder="0"
-              allowfullscreen=""
-              title="Embedded post"
-            ></iframe>
+          <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7319590208365060096" height="350" width="300" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
             <div className="blog__meta">
               <span></span>
             </div>
@@ -86,17 +66,16 @@ const Blog = () => {
             </a>
           </div>
           <div className="blog__details">
-          <blockquote className="twitter-tweet">
-        <p lang="en" dir="ltr">
-          Hi Developers<br/><br/>
-          I successfully completed my 50k impressions on X<br/><br/>
-          Let's <a href="https://twitter.com/hashtag/Connect?src=hash&amp;ref_src=twsrc%5Etfw">#Connect</a>! 
-          <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> 
-          <a href="https://t.co/MmqVzdJgBf">pic.twitter.com/MmqVzdJgBf</a>
-        </p>
-        &mdash; Arihant Jain (@Arihantdotcom) <a href="https://twitter.com/Arihantdotcom/status/1739111721577439594?ref_src=twsrc%5Etfw">December 25, 2023</a>
-      </blockquote>
-           
+            <blockquote className="twitter-tweet" data-media-max-width="560">
+              <p lang="en" dir="ltr">
+                Spectrum AI Waitlist is LIVE<br/><br/>
+                Imagine getting the perfect AI prompt for any task-just type your idea, and we do the magic<br/><br/>
+                Early access: <a href="https://t.co/YxD2QJWdd5">https://t.co/YxD2QJWdd5</a><br/><br/>
+                Early users get exclusive updates &amp; surprises<br/><br/>
+                Tag a friend who loves AI, and RT to spread the word. <a href="https://t.co/YiUsCclAf5">pic.twitter.com/YiUsCclAf5</a>
+              </p>
+              &mdash; Arihant Jain (@arihantCodes) <a href="https://twitter.com/arihantCodes/status/1916362741788332421?ref_src=twsrc%5Etfw">April 27, 2025</a>
+            </blockquote>
           </div>
         </div>
         <div className="blog__card">
@@ -129,17 +108,7 @@ const Blog = () => {
             </a>
           </div>
           <div className="blog__details">
-          <blockquote className="twitter-tweet">
-        <p lang="en" dir="ltr">
-          Hi Developers,<br/>
-          Building an "Ek chai pilade" open-source platform, similar to buymeacoffee for Indian users. It supports UPI and is 100% commission-free. You can start your Tapri, and supporters can help you.<br/>
-          Link: <a href="https://ekchaipilade.vercel.app">ekchaipilade.vercel.app</a>
-          <a href="https://twitter.com/hashtag/Budget2024?src=hash&amp;ref_src=twsrc%5Etfw">#Budget2024</a> 
-          <a href="https://twitter.com/hashtag/Paytm?src=hash&amp;ref_src=twsrc%5Etfw">#Paytm</a> 
-          <a href="https://t.co/EyZXDoG63A">pic.twitter.com/EyZXDoG63A</a>
-        </p>
-        &mdash; Arihant Jain (@Arihantdotcom) <a href="https://twitter.com/Arihantdotcom/status/1752903391167275317?ref_src=twsrc%5Etfw">February 1, 2024</a>
-      </blockquote>
+          <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Rate My Resume for Frontend Developer Position Scale of 1-10<a href="https://twitter.com/piyushgarg_dev?ref_src=twsrc%5Etfw">@piyushgarg_dev</a> <a href="https://twitter.com/mannupaaji?ref_src=twsrc%5Etfw">@mannupaaji</a> <a href="https://twitter.com/100xDevs?ref_src=twsrc%5Etfw">@100xDevs</a> <a href="https://twitter.com/kirat_tw?ref_src=twsrc%5Etfw">@kirat_tw</a> <a href="https://twitter.com/Hiteshdotcom?ref_src=twsrc%5Etfw">@Hiteshdotcom</a> <a href="https://t.co/FoOUnhfkVg">pic.twitter.com/FoOUnhfkVg</a></p>&mdash; Arihant Jain (@arihantCodes) <a href="https://twitter.com/arihantCodes/status/1855590992570941495?ref_src=twsrc%5Etfw">November 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             
           </div>
         </div>
